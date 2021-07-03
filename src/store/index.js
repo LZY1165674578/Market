@@ -41,8 +41,6 @@ const store =new Vuex.Store({
         delgoods:function (state){
             state.goods = []
         }
-
-
         }
 
 
